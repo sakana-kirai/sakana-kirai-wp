@@ -37,7 +37,7 @@ define('DB_USER', 'bdcaf435d62cc3');
 define('DB_PASSWORD', 'ba9eeaef');
 
 /** MySQL のホスト名 */
-define('DB_HOST', 'us-cdbr-iron-east-03.cleardb.net');
+define('DB_HOST', 'us-cdbr-east-03.cleardb.com');
 
 /** データベースのテーブルを作成する際のデータベースの文字セット */
 define('DB_CHARSET', 'utf8');
