@@ -37,7 +37,7 @@ define('DB_USER', 'bdcaf435d62cc3');
 define('DB_PASSWORD', 'ba9eeaef');
 
 /** MySQL のホスト名 */
-define('DB_HOST', 'us-cdbr-east-03.cleardb.com');
+define('DB_HOST', 'uus-cdbr-iron-east-03.cleardb.net');
 
 /** データベースのテーブルを作成する際のデータベースの文字セット */
 define('DB_CHARSET', 'utf8');
@@ -54,14 +54,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'UVU_q11#qK>5=D/62%|.tgPEM`]8(=-+;o)H5yLvbl+LigK1e,JSu>{TigoLtrBt');
-define('SECURE_AUTH_KEY',  's~Vl?l|R{jJSu0k9|cW_&Z.E==[dx}j1+lqOPb+CK5Oyu&nH>bdH5s|~.d(dc.jN');
-define('LOGGED_IN_KEY',    'b_N=@3<$vtA):}lN,+):TEh+cF.,3^H9$~D_YxWYDi7RJ,ztIqfJ^9+^3_%fIBhg');
-define('NONCE_KEY',        'OLC;IZXH/|wF>pOq[:<$^+/iq<,^VrW^H5gXe#cy+#WCa/:[VU38)zb_JX+p<s$-');
-define('AUTH_SALT',        'Y-+:D8on7DItpI=P1s- ^KsOJ5%tR95(TSIEbqY5ZY-j-+Xs/Lq[6^f6>+wVh[@g');
-define('SECURE_AUTH_SALT', ',[aPJzX|$fnb!V^t~5gN>IvO54r6vpdTq+M@`@HI4#lh0%a@|gy%ugdqs++Y-(#4');
-define('LOGGED_IN_SALT',   'r0tqRgHm.+jNp Rid6Cy4f7kLgE->Q=Tylcu~raYA7MQ=?PrXLe+bjv]%+9A;PK0');
-define('NONCE_SALT',       'Om{uakfoSd,(*F9xqaGvLwur<]/sFFh,&9e+j=[r ;(4Zq!{UjJ~m&Ro35Vk1!TW');
+define('AUTH_KEY',         'F`pDrQ!*k%h3v~J[1:&Z.s.0+xu*:y60=g3TN+7,u_*yz{{eQDO8#JNG ]AWUDcY');
+define('SECURE_AUTH_KEY',  '9|vIDlxC^g~{Kj-)>0@6F#6l`Lx6k-d,(YKe~.+%~1bzYy#};B$VI}lzYm3`1khC');
+define('LOGGED_IN_KEY',    '97:*TIUt`=:}%U<&R>]9sAY:RS-W)}iT4g|bh!6Bh)}&$NM6DcvRC:+x0XWOGbI7');
+define('NONCE_KEY',        'DW4._1SXn-PDTog<~1aQ4l`Ang5ZPm9uImW($Ts6V:05V(RnZGig]9;`3|ilV?aI');
+define('AUTH_SALT',        'pP(Gy+VSkA-G-;FZ=&-o#%z+x4+!+Z`;_cUkY@a+2/Q-va_]PN>C~|.Vc?sr_vVh');
+define('SECURE_AUTH_SALT', 'C@i59j3wP>!E,o-bKCK*5Fc/vHjT;^;`|z]Y_7Wh?9y=775HQwyOAW%jQ)AP2nPE');
+define('LOGGED_IN_SALT',   '&M,G;f0-I)8Ly71)w^ji<.~R_st}ATs3:Fo7npO$&q?lR0JchG:sb#@<tg{,QLQa');
+define('NONCE_SALT',       'hgq]3|#t-^vdX~u{Q62e@h@[iw;---$w$A]yTJ_!cPK|3P`lI,2hTPf-lbl=74%3');
 /**#@-*/
 
 /**
